@@ -1,0 +1,18 @@
+body {
+    background-color: grey;
+}
+ul {
+    
+    
+    
+    
+    display: flex;
+    
+}
+li {
+    list-style-type: none;
+    text-decoration: none; 
+    margin: 20px;
+    border-radius: 8px;
+    background-color: beige;
+}
